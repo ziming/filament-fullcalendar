@@ -2,6 +2,19 @@
 
 All notable changes to `filament-fullcalendar` will be documented in this file.
 
+## v3.0.0-beta3 - 2023-09-11
+
+### What's Changed
+
+- Set Timeline to false to remove license warning by default by @haritz95 in https://github.com/saade/filament-fullcalendar/pull/107
+- Bump actions/checkout from 3 to 4 by @dependabot in https://github.com/saade/filament-fullcalendar/pull/106
+
+### New Contributors
+
+- @haritz95 made their first contribution in https://github.com/saade/filament-fullcalendar/pull/107
+
+**Full Changelog**: https://github.com/saade/filament-fullcalendar/compare/v1.9.2...v3.0.0-beta3
+
 ## v1.9.2 - 2023-07-11
 
 **Full Changelog**: https://github.com/saade/filament-fullcalendar/compare/v1.9.1...v1.9.2
