@@ -2,6 +2,18 @@
 
 All notable changes to `filament-fullcalendar` will be documented in this file.
 
+## v3.0.0-beta4 - 2023-09-21
+
+### What's Changed
+
+- fix modal not closed after create/edit by @chickgit in https://github.com/saade/filament-fullcalendar/pull/102
+
+### New Contributors
+
+- @chickgit made their first contribution in https://github.com/saade/filament-fullcalendar/pull/102
+
+**Full Changelog**: https://github.com/saade/filament-fullcalendar/compare/v3.0.0-beta1...v3.0.0-beta4
+
 ## v3.0.0-beta3 - 2023-09-11
 
 ### What's Changed
